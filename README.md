@@ -8,7 +8,9 @@ Download the software package here:
 https://drive.google.com/drive/folders/1CvOhoQPEVKKqcLJVzQ67VyPYP87xCRBC?usp=sharing
 
 URPCCElementals-2022-07-06.zip
+  
   Fixed a bug where window wasn't maximizing fully after resizing, leaving window title bar visible.
   
 URPCCElementals-2022-07-04.zip
+  
   Initial version.
