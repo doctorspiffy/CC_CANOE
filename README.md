@@ -8,7 +8,7 @@ Download the software package here:
 https://drive.google.com/drive/folders/1CvOhoQPEVKKqcLJVzQ67VyPYP87xCRBC?usp=sharing
 
 **Versions:**
-
+- URPCCElementalsEnhanced-08082022-NewInputSystem - Switched code over to Unity's new input system.
 - URPCCElementalsEnhanced-2022-07-08.zip - Added two scripts to support using PC game controller for navigating around the space, and a script to record and traverse waypoints.
 - URPCCElementals-2022-07-06.zip - Fixed a bug where window wasn't maximizing fully after resizing, leaving window title bar visible.
 - URPCCElementals-2022-07-04.zip - Initial version.
