@@ -8,7 +8,7 @@ Download the software package here:
 https://drive.google.com/drive/folders/1CvOhoQPEVKKqcLJVzQ67VyPYP87xCRBC?usp=sharing
 
 **Versions:**
-- URPCCElementalsEnhanced-2023-07-06.zip - Updated code to work with URP 2022. Tested with Unity LTS 2022.3.4f1.
+- URPCCElementalsEnhanced-2023-07-06.zip - Updated code to work with Unity's Universal Render Pipeline 2022. Tested with Unity LTS 2022.3.4f1.
 - URPCCElementalsEnhanced-2022-08-14.zip - Switched code over to Unity's new input system so that Windows and Mac control of game controllers work properly. Recommend using Xbox wireless game controllers. For some reason the Mac will not work properly with the Logitech F310.
 - URPCCElementalsEnhanced-2022-07-08.zip - Added two scripts to support using PC game controller for navigating around the space, and a script to record and traverse waypoints.
 - URPCCElementals-2022-07-06.zip - Fixed a bug where window wasn't maximizing fully after resizing, leaving window title bar visible.
