@@ -10,6 +10,7 @@ Here is the download link for all the versions:
 https://drive.google.com/drive/folders/1CvOhoQPEVKKqcLJVzQ67VyPYP87xCRBC?usp=sharing
 
 **Versions:**
+- CC2025-ALL-RP-2025-09-07.zip - Improves on CC2025-ALL-RP-2025-09.01.zip by using a scriptable object to hold settings for stereo settings.
 - CC2025-ALL-RP.zip - Fixed a bug in the waypoint interpolation. Also this version now uses Unity 6000.2.
 - CC2024-ALL-RP.zip - Contains a wholly new implementation that fixes the prior performance problem. This new version (tested on Unity 22.3.46f1) now supports Unity's Built-in Rendering Pipeline, Universal Rendering Pipeline, and the High Definition Rendering Pipeline. Read CCInstructions2024.pdf above for details. This version also adds Space Mouse support.
 
