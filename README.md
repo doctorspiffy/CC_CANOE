@@ -4,7 +4,7 @@ Supports interlaced, side-by-side, and top-bottom stereo.
 
 Look at CCInstructions2025.pdf for details.
 
-See below for an explanation of the versions of the software. I do not recommend using anything older than the CC2024 version.
+See below for an explanation of the versions of the software. I recommend using the latest version if possible. Avoid anything older than the CC2024 version.
 
 Here is the download link for all the versions:
 https://drive.google.com/drive/folders/1CvOhoQPEVKKqcLJVzQ67VyPYP87xCRBC?usp=sharing
