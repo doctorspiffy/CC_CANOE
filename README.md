@@ -10,8 +10,7 @@ Here is the download link for all the versions:
 https://drive.google.com/drive/folders/1CvOhoQPEVKKqcLJVzQ67VyPYP87xCRBC?usp=sharing
 
 **Versions:**
-- CC2025-ALL-RP-2025-09-09.zip - Added the ability to support a shared stereo configuration file as well as local file. Useful if you have a bunch of stereo applications that need to use the same stereo configuration for your display wall, alleviating each app developer to maintain their own configuration file.
-- CC2025-ALL-RP-2025-09-07.zip - Fixed a bug in the waypoint interpolation. Upgraded to Unity 6000.2. Using a scriptable game object to hold settings for stereo. Fixed build settings for URP and HDRP versions.
+- CC2025-ALL-RP-2025-09-10.zip - Replaced linear interpolation for waypoints with a Catmull-Rom spline. Upgraded to Unity 6000.2. Using a scriptable game object to hold settings for stereo. Added the ability to support a shared stereo configuration file as well as local file. Useful if you have a bunch of stereo applications that need to use the same stereo configuration for your display wall, alleviating the need for every app developer to maintain their own configuration file.
 - CC2024-ALL-RP.zip - Contains a wholly new implementation that fixes the prior performance problem. This new version (tested on Unity 22.3.46f1) now supports Unity's Built-in Rendering Pipeline, Universal Rendering Pipeline, and the High Definition Rendering Pipeline. Read CCInstructions2024.pdf above for details. This version also adds Space Mouse support.
 
 - URPCCElementalsEnhanced-2023-07-06.zip - Updated code to work with Unity's Universal Render Pipeline 2022 and RTHandle system. Tested with Unity LTS 2022.3.4f1. Do NOT use this version yet. Unity has a bug which makes the use of very large render textures too slow for practical use. This has NOT been fixed by Unity since November 2023. See: https://forum.unity.com/threads/terrible-render-texture-urp-performance-2022-2.1393462/
