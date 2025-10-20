@@ -9,6 +9,8 @@ See below for an explanation of the versions of the software. I recommend using 
 Here is the download link for all the versions:
 https://drive.google.com/drive/folders/1CvOhoQPEVKKqcLJVzQ67VyPYP87xCRBC?usp=sharing
 
+Note: when you unzip the file on Windows, use 7zip rather than Windows' native unzipper or you may experience a path too long error.
+
 **Versions:**
 - CC-2025-09-10.zip - Added Catmull-Rom spline option as an alternative to linear interpolation for moving between waypoints. Upgraded to Unity 6000.2. Using a scriptable game object to hold settings for stereo. Added the ability to support a shared stereo configuration file as well as local file. Useful if you have a bunch of stereo applications that need to use the same stereo configuration for your display wall, alleviating the need for every app developer to maintain their own configuration file.
 - CC2024-ALL-RP.zip - Contains a wholly new implementation that fixes the prior performance problem. This new version (tested on Unity 22.3.46f1) now supports Unity's Built-in Rendering Pipeline, Universal Rendering Pipeline, and the High Definition Rendering Pipeline. Read CCInstructions2024.pdf above for details. This version also adds Space Mouse support.
