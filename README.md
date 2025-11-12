@@ -2,7 +2,7 @@
 Unity template for off-axis 3D stereoscopic rendering.
 Supports interlaced, side-by-side, and top-bottom stereo.
 
-Look at PDF instructions for details.
+Look at PDF instructions (listed above) for details.
 
 See below for an explanation of the versions of the software. I recommend using the latest version if possible. Avoid anything older than the CC2024 version.
 
