@@ -4,10 +4,12 @@ Supports interlaced, side-by-side, and top-bottom stereo.
 
 Look at PDF instructions (listed above) for details.
 
-See below for an explanation of the versions of the software. I recommend using the latest version if possible. Avoid anything older than the CC2024 version.
-
 Here is the download link for all the versions:
 https://drive.google.com/drive/folders/1CvOhoQPEVKKqcLJVzQ67VyPYP87xCRBC?usp=sharing
+
+The latest version is in the folder CC_CANOE LATEST VERSION.
+
+See below for a summary of the versions of the software. I recommend using the latest version if possible. Avoid anything older than the CC2024 version.
 
 Note: when you unzip the file on Windows, use 7zip rather than Windows' native unzipper or you may experience a path too long error.
 
